@@ -47,9 +47,10 @@ public class ExercisingScenario{
 	public String helloMeathead(int daysWorkedOut) {
 		String youAMeathead = "You're a meathead";
 		return youAMeathead;
+		
 	}
 	
-	public static void main(String[]args) {
+	public static void main(String[] args){
 		
 		ExercisingScenario totalWorkout = new ExercisingScenario(15, 3, 30, 6, 4);
 		
@@ -72,5 +73,6 @@ public class ExercisingScenario{
 		// I can also do System.out.println(totalWorkout.helloMeathead(7)); instead of the one above.
 		//Like below:
 		//System.out.println(totalWorkout.helloMeathead(7));
+		
     }
 }
