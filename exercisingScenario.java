@@ -74,5 +74,15 @@ public class ExercisingScenario{
 		//Like below:
 		//System.out.println(totalWorkout.helloMeathead(7));
 		
+		if (totalWorkoutDone < 100){
+			System.out.println("I'm not working out hard enough, I need to do more!!!");
+
+		}
+
+		else{
+
+			System.out.println("Whoa nice! You're definitely gonna get a lot of gains!");
+
+		}
     }
 }
