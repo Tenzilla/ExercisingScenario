@@ -33,9 +33,9 @@ public class ExercisingScenario{
 	}
 	
 
-	public void reps(int repsInSet, int setsToComplete) {
+public void reps(int repsInSet, int setsToComplete) {
 		
-		System.out.println("It's not much but I will be working out this much in reps and sets:");
+	System.out.println("It's not much but I will be working out this much in reps and sets:");
 		
 		
 	}
